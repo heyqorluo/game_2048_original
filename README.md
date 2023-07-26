@@ -1,6 +1,6 @@
 # Computing 2 Coursework Submission.
 ## This is a re-built version of the game 2048 as part of the coursework for year 1 Computing 2 module. API and Unit Tests are included.
-## Install dependencies locally
+### Install dependencies locally
 This repo relies on a a few packages from the Node Package Manager, npm.
 To install them run the following commands in the terminal.
 ```properties
